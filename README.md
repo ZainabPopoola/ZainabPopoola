@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ZainabPopoola/ZainabPopoola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I'm Zainab Popoola</h1>
+<h3 align="center">A passionate Data Analyst</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m interested in **Data analysis and Data visualization**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Experienced using **Power BI, Microsoft Excel,Tableau, and Python**
+
+- 👯 I’m looking to collaborate on **Data analysis projects**
+
+- 🤝 I’m open **to critique and feedbacks**
+
+- 📫 How to reach me **popoolazainab22@gmail.com**
